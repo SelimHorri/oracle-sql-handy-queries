@@ -1,4 +1,5 @@
 
+CREATE VIEW TOP_label_PER_COMPANY_MM AS
 SELECT *
 FROM (
   SELECT  date, 
